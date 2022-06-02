@@ -1,4 +1,4 @@
-# Imagine Cereberus
+# Proc(edural, but) Metastable
 
 Create music, procedurally, (no AI here)
 
